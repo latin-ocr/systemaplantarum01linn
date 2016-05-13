@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./systemaplantarum01linn_0005.png"; bbox 0 0 2007 3593; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 295 1179 1664 1289">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 295 1179 1664 1289">
+     <span class='ocr_line' id='line_1_1' title="bbox 295 1179 1664 1289; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 295 1179 915 1289; x_wconf 85' lang='lat' dir='ltr'>CAROLI</span> <span class='ocrx_word' id='word_1_2' title='bbox 1012 1181 1664 1283; x_wconf 46' lang='lat' dir='ltr'><strong>LINNAEI‘</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 171 1429 1778 1814">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 171 1429 1778 1814">
+     <span class='ocr_line' id='line_1_2' title="bbox 435 1429 1509 1579; baseline -0.002 -15"><span class='ocrx_word' id='word_1_3' title='bbox 435 1437 507 1564; x_wconf 87' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_4' title='bbox 571 1434 684 1561; x_wconf 85' lang='lat' dir='ltr'>Y</span> <span class='ocrx_word' id='word_1_5' title='bbox 732 1429 967 1579; x_wconf 75' lang='lat' dir='ltr'>ST</span> <span class='ocrx_word' id='word_1_6' title='bbox 1025 1434 1131 1560; x_wconf 87' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_7' title='bbox 1173 1435 1328 1570; x_wconf 88' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_8' title='bbox 1379 1435 1509 1562; x_wconf 88' lang='lat' dir='ltr'><strong>A</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 171 1701 1778 1814; baseline -0.01 0"><span class='ocrx_word' id='word_1_9' title='bbox 171 1701 1068 1814; x_wconf 84' lang='lat' dir='ltr'>PLANTARUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 1153 1709 1778 1806; x_wconf 63' lang='lat' dir='ltr'><strong>EUROPAE„</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 171 1960 703 1980">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 171 1960 703 1980">
+     <span class='ocr_line' id='line_1_4' title="bbox 171 1960 703 1980; baseline 0 1613"><span class='ocrx_word' id='word_1_11' title='bbox 171 1960 703 1980; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1018 1960 1756 1983">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1018 1960 1756 1983">
+     <span class='ocr_line' id='line_1_5' title="bbox 1018 1960 1756 1983; baseline 0 1610"><span class='ocrx_word' id='word_1_12' title='bbox 1018 1960 1756 1983; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 678 1963 1226 2059">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 678 1963 1226 2059">
+     <span class='ocr_line' id='line_1_6' title="bbox 678 1963 1226 2059; baseline 0.005 -4"><span class='ocrx_word' id='word_1_13' title='bbox 678 1965 907 2055; x_wconf 59' lang='lat' dir='ltr'>‘bom</span> <span class='ocrx_word' id='word_1_14' title='bbox 943 1963 1226 2059; x_wconf 28' lang='lat'>55555</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
